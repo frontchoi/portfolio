@@ -1,5 +1,0 @@
-@charset "euc-kr";
-nav ul.gnb_open > li{
-	display:inline;
-	border:1px solid red;
-}
